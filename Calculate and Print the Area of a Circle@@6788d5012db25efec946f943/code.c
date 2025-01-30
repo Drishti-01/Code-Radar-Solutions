@@ -1,5 +1,5 @@
 #include <stdio.h>
-#define PT 3.14
+#define PI 3.14
 int main(){
     float radius,area;
     area=PI*radius*radius;
