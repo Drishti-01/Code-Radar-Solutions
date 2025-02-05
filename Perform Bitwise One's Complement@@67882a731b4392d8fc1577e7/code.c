@@ -3,6 +3,6 @@
 int main(){
     int i,k;
     scanf("%d",&i);
-    k=-i;
+    k=~i;
     printf("%d",k);
 }
