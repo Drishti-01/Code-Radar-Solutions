@@ -9,6 +9,6 @@ int main() {
         sum += i;
     }
 
-    printf("Sum of first %d natural numbers: %d\n", n, sum);
+    printf("%d", n, sum);
     return 0;
 }
