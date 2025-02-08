@@ -9,7 +9,7 @@ int main() {
         for (space = i; space < n; space++)
             printf(" ");
         for (j = 0; j < i; j++)
-            printf("%c ", 'A' + j);
+            printf("%c", 'A' + j);
         printf("\n");
     }
 
